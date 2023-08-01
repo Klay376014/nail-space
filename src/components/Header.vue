@@ -1,9 +1,9 @@
 <script setup>
 </script>
 <template>
-  <header class="bg-white">
+  <header class="bg-secondary">
     <div class="container">
-      <nav class="navbar navbar-expand-lg navbar-primary bg-white">
+      <nav class="navbar navbar-expand-lg navbar-primary bg-secondary">
         <div class="container-fluid">
           <h1 class="navbar-brand"><a href="/">Yvonne's Nail Space</a></h1>
           <button
@@ -22,25 +22,25 @@
               class="navbar-nav me-auto mb-2 mb-lg-0 flex-row flex-wrap flex-lg-nowrap w-100 text-center align-items-center fw-bold"
             >
               <li class="nav-item w-50 d-none d-lg-block">
-                <RouterLink class="nav-link px-0 active" to="/">首頁</RouterLink>
+                <RouterLink class="nav-link px-0 text-white active" to="/">首頁</RouterLink>
               </li>
               <li class="nav-item w-50">
-                <RouterLink class="nav-link px-0" to="/about">品牌故事</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/about">品牌故事</RouterLink>
               </li>
               <li class="nav-item w-50">
-                <RouterLink class="nav-link px-0" to="/">服務項目</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/">服務項目</RouterLink>
               </li>
               <li class="nav-item w-50">
-                <RouterLink class="nav-link px-0" to="/">價目表</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/">價目表</RouterLink>
               </li>
               <li class="nav-item w-50">
-                <RouterLink class="nav-link px-0" to="/">作品集</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/">作品集</RouterLink>
               </li>
               <li class="nav-item w-50">
-                <RouterLink class="nav-link px-0" to="/">文章介紹</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/">文章介紹</RouterLink>
               </li>
               <li class="nav-item w-50">
-                <RouterLink class="nav-link px-0" to="/">Q&A</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/">Q&A</RouterLink>
               </li>
               <li class="nav-item d-lg-none w-100">
                 <RouterLink class="nav-link" to="/"

@@ -1,7 +1,7 @@
 <script setup>
 </script>
 <template>
-  <footer class="bg-primary text-white">
+  <footer class="bg-secondary text-white">
     <div class="container">footer</div>
   </footer>
 </template>
