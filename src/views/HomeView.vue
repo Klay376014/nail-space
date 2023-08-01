@@ -2,6 +2,6 @@
 </script>
 <template>
   <div class="container">
-    <h1 class="lh-base">我是首頁</h1>
+    <h2 class="lh-base">我是首頁</h2>
   </div>
 </template>
