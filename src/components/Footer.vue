@@ -14,9 +14,9 @@
               class="material-symbols-outlined align-top me-2"> mail </span>nail_space@gmail.com</a>
         </div>
         <div class="sns d-flex flex-column justify-content-center flex-md-row justify-content-md-start mx-auto mx-md-0">
-            <a href="#"><img src="images/facebook.png" alt="fb" class="mb-2 me-md-3"/></a>
-            <a href="#"><img src="images/instagram.png" alt="ig" class="mb-2 me-md-3"/></a>
-            <a href="#"><img src="images/youtube.png" alt="yt" /></a>
+            <a href="#"><img src="/images/facebook.png" alt="fb" class="mb-2 me-md-3"/></a>
+            <a href="#"><img src="/images/instagram.png" alt="ig" class="mb-2 me-md-3"/></a>
+            <a href="#"><img src="/images/youtube.png" alt="yt" /></a>
         </div>
       </div>
       <div>
