@@ -21,25 +21,25 @@
             <ul
               class="navbar-nav me-auto mb-2 mb-lg-0 flex-row flex-wrap flex-lg-nowrap w-100 text-center align-items-center fw-bold"
             >
-              <li class="nav-item w-50 d-none d-lg-block">
+              <li class="nav-item w-50 d-none d-lg-block bd-bottom">
                 <RouterLink class="nav-link px-0 text-white active" to="/">首頁</RouterLink>
               </li>
-              <li class="nav-item w-50">
+              <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/about">品牌故事</RouterLink>
               </li>
-              <li class="nav-item w-50">
+              <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">服務項目</RouterLink>
               </li>
-              <li class="nav-item w-50">
+              <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">價目表</RouterLink>
               </li>
-              <li class="nav-item w-50">
+              <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">作品集</RouterLink>
               </li>
-              <li class="nav-item w-50">
+              <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">文章介紹</RouterLink>
               </li>
-              <li class="nav-item w-50">
+              <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">Q&A</RouterLink>
               </li>
               <li class="nav-item d-lg-none w-100">
