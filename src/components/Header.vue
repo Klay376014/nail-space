@@ -1,5 +1,4 @@
-<script setup>
-</script>
+<script setup></script>
 <template>
   <header class="bg-secondary">
     <div class="container">
@@ -28,10 +27,10 @@
                 <RouterLink class="nav-link px-0 text-white" to="/about">品牌故事</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/">服務項目</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/service">服務項目</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/">價目表</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/price">價目表</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">作品集</RouterLink>
