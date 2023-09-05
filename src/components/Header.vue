@@ -18,7 +18,7 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul
-              class="navbar-nav me-auto mb-2 mb-lg-0 flex-row flex-wrap flex-lg-nowrap w-100 text-center align-items-center fw-bold"
+              class="navbar-nav me-auto mb-8 mb-lg-0 flex-row flex-wrap flex-lg-nowrap w-100 text-center align-items-center fw-bold"
             >
               <li class="nav-item w-50 d-none d-lg-block bd-bottom">
                 <RouterLink class="nav-link px-0 text-white active" to="/">首頁</RouterLink>
@@ -43,11 +43,11 @@
               </li>
               <li class="nav-item d-lg-none w-100">
                 <RouterLink class="nav-link" to="/"
-                  ><button class="btn btn-primary px-5">登入／註冊</button></RouterLink
+                  ><button class="btn btn-primary px-48">登入／註冊</button></RouterLink
                 >
               </li>
               <li class="nav-item d-none d-lg-flex text-lg-end w-75">
-                <button class="btn btn-primary flex-grow-1 px-2">
+                <button class="btn btn-primary flex-grow-1 px-8">
                   <RouterLink class="nav-link text-white" to="/">登入／註冊</RouterLink>
                 </button>
               </li>
