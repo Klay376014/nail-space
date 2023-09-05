@@ -4,7 +4,7 @@
     <div class="container">
       <nav class="navbar navbar-expand-lg navbar-primary bg-secondary">
         <div class="container-fluid">
-          <h1 class="navbar-brand"><a href="/">Yvonne's Nail Space</a></h1>
+          <h1 class="navbar-brand"><a href="/nail-cpace/">Yvonne's Nail Space</a></h1>
           <button
             class="navbar-toggler"
             type="button"
