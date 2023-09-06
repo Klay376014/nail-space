@@ -117,6 +117,4 @@ img {
     background-color: #ffffff !important;
   }
 }
-.bg-img {
-}
 </style>
