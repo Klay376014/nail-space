@@ -33,7 +33,7 @@
                 <RouterLink class="nav-link px-0 text-white" to="/price">價目表</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/">作品集</RouterLink>
+                <RouterLink class="nav-link px-0 text-white" to="/gallery">作品集</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
                 <RouterLink class="nav-link px-0 text-white" to="/">文章介紹</RouterLink>

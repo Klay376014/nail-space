@@ -2,35 +2,47 @@
 
 <template>
   <!-- banner -->
-  <div class="bg-primary mb-3">
-    <h2 class="text-center p-5">價目表</h2>
+  <div class="banner mb-lg-48 mb-32">
+    <h2 class="text-center py-96 text-white">價目表</h2>
   </div>
   <!-- 價目表 -->
   <div class="container">
     <div class="row">
-      <div class="col-12 col-md-6 mb-4">
-        <img
-          src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
-          alt=""
-        />
+      <!-- 1 -->
+      <div class="col-12 col-lg-6">
+        <div class="mb-32">
+          <img
+            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
+            alt=""
+          />
+        </div>
       </div>
-      <div class="col-12 col-md-6 mb-4">
-        <img
-          src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
-          alt=""
-        />
+      <!-- 2 -->
+      <div class="col-12 col-lg-6">
+        <div class="mb-32">
+          <img
+            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
+            alt=""
+          />
+        </div>
       </div>
-      <div class="col-12 col-md-6 mb-4">
-        <img
-          src="https://gw.alicdn.com/i4/2207908434548/O1CN01Y2VqCa1jT223TMvoB_!!0-item_pic.jpg_Q75.jpg_.webp"
-          alt=""
-        />
+      <!-- 3 -->
+      <div class="col-12 col-lg-6">
+        <div class="mb-32">
+          <img
+            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
+            alt=""
+          />
+        </div>
       </div>
-      <div class="col-12 col-md-6 mb-4">
-        <img
-          src="https://gw.alicdn.com/i4/2207908434548/O1CN01Y2VqCa1jT223TMvoB_!!0-item_pic.jpg_Q75.jpg_.webp"
-          alt=""
-        />
+      <!-- 4 -->
+      <div class="col-12 col-lg-6">
+        <div class="mb-32">
+          <img
+            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
+            alt=""
+          />
+        </div>
       </div>
     </div>
   </div>
