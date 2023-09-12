@@ -1,4 +1,5 @@
-<script setup></script>
+<script setup>
+</script>
 <template>
   <header class="bg-secondary">
     <div class="container">
@@ -21,34 +22,42 @@
               class="navbar-nav me-auto mb-8 mb-lg-0 flex-row flex-wrap flex-lg-nowrap w-100 text-center align-items-center fw-bold"
             >
               <li class="nav-item w-50 d-none d-lg-block bd-bottom">
-                <RouterLink class="nav-link px-0 text-white active" to="/">首頁</RouterLink>
+                <RouterLink class="nav-link px-0" to="/">首頁</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/about">品牌故事</RouterLink>
+                <RouterLink class="nav-link px-0" to="/about">品牌故事</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/service">服務項目</RouterLink>
+                <RouterLink class="nav-link px-0 " to="/service">服務項目</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/price">價目表</RouterLink>
+                <RouterLink class="nav-link px-0 " to="/price">價目表</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/gallery">作品集</RouterLink>
+                <RouterLink class="nav-link px-0 " to="/gallery">作品集</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/">文章介紹</RouterLink>
+                <RouterLink class="nav-link px-0 " to="/">文章介紹</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 text-white" to="/">Q&A</RouterLink>
+                <RouterLink class="nav-link px-0 " to="/">Q&A</RouterLink>
               </li>
-              <li class="nav-item d-lg-none w-100">
+              <li class="nav-item d-lg-none w-50">
                 <RouterLink class="nav-link" to="/"
-                  ><button class="btn btn-primary px-48">登入／註冊</button></RouterLink
+                  ><button class="btn btn-primary px-48">登入</button></RouterLink
                 >
               </li>
-              <li class="nav-item d-none d-lg-flex text-lg-end w-75">
-                <button class="btn btn-primary flex-grow-1 px-8">
-                  <RouterLink class="nav-link text-white" to="/">登入／註冊</RouterLink>
+              <li class="nav-item d-lg-none w-50">
+                <RouterLink class="nav-link" to="/"
+                  ><button class="btn btn-primary px-48">註冊</button></RouterLink
+                >
+              </li>
+              <li class="nav-item d-none d-lg-flex text-lg-end w-100">
+                <button class="btn btn-primary px-8 me-16">
+                  <RouterLink class="nav-link" to="/">登入</RouterLink>
+                </button>
+                <button class="btn btn-primary px-8">
+                  <RouterLink class="nav-link" to="/">註冊</RouterLink>
                 </button>
               </li>
             </ul>
