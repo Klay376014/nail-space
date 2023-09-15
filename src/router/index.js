@@ -31,6 +31,7 @@ const router = createRouter({
       path: '/gallery',
       name: 'gallery',
       component: () => import('../views/GalleryView.vue')
+<<<<<<< HEAD
     },
     {
       path: '/blog',
@@ -51,6 +52,8 @@ const router = createRouter({
       path: '/register',
       name: 'register',
       component: () => import('../views/RegisterView.vue')
+=======
+>>>>>>> 665d8157481b155e4b904776ee79d1ceb320422f
     }
   ]
 })
