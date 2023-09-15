@@ -37,7 +37,6 @@
                 <RouterLink class="nav-link px-0 " to="/gallery">作品集</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
-<<<<<<< HEAD
                 <RouterLink class="nav-link px-0 " to="/blog">文章介紹</RouterLink>
               </li>
               <li class="nav-item w-50 bd-bottom">
@@ -45,40 +44,20 @@
               </li>
               <li class="nav-item d-lg-none w-50">
                 <RouterLink class="nav-link" to="/login"
-=======
-                <RouterLink class="nav-link px-0 " to="/">文章介紹</RouterLink>
-              </li>
-              <li class="nav-item w-50 bd-bottom">
-                <RouterLink class="nav-link px-0 " to="/">Q&A</RouterLink>
-              </li>
-              <li class="nav-item d-lg-none w-50">
-                <RouterLink class="nav-link" to="/"
->>>>>>> 665d8157481b155e4b904776ee79d1ceb320422f
                   ><button class="btn btn-primary px-48">登入</button></RouterLink
                 >
               </li>
               <li class="nav-item d-lg-none w-50">
-<<<<<<< HEAD
                 <RouterLink class="nav-link" to="/register"
-=======
-                <RouterLink class="nav-link" to="/"
->>>>>>> 665d8157481b155e4b904776ee79d1ceb320422f
                   ><button class="btn btn-primary px-48">註冊</button></RouterLink
                 >
               </li>
               <li class="nav-item d-none d-lg-flex text-lg-end w-100">
                 <button class="btn btn-primary px-8 me-16">
-<<<<<<< HEAD
                   <RouterLink class="nav-link" to="/login">登入</RouterLink>
                 </button>
                 <button class="btn btn-primary px-8">
                   <RouterLink class="nav-link" to="/register">註冊</RouterLink>
-=======
-                  <RouterLink class="nav-link" to="/">登入</RouterLink>
-                </button>
-                <button class="btn btn-primary px-8">
-                  <RouterLink class="nav-link" to="/">註冊</RouterLink>
->>>>>>> 665d8157481b155e4b904776ee79d1ceb320422f
                 </button>
               </li>
             </ul>
