@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@500;700;900&family=Shrikhand&display=swap');
+
+@import "bootstrap/scss/functions";
+@import './util/variables';
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/variables-dark";
+@import "bootstrap/scss/maps";
+@import "bootstrap/scss/mixins";
+@import '../scss/util/util';
+@import 'bootstrap/scss/utilities/api';
+@import 'bootstrap/';
+
+
+
+@import './base/base';
+
+@import './components/Header';
+@import './components/Footer';
+
+@import './views/HomeView';
+@import './views/AboutView';

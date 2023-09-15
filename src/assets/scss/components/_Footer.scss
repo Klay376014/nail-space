@@ -1,0 +1,31 @@
+.sns {
+  img {
+    width: 40px;
+    height: auto;
+    @include media-breakpoint-up(md) {
+      width: 60px;
+    }
+  }
+}
+
+h3 {
+  font-size: 20px;
+
+  @include media-breakpoint-up(md) {
+    font-size: 28px;
+  }
+}
+
+li{
+  @include media-breakpoint-up(md) {
+    font-size: 20px;
+  }
+}
+
+.contact{
+  a{
+    @include media-breakpoint-up(md) {
+      font-size: 20px;
+    }
+  }
+}
