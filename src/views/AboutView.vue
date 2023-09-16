@@ -8,12 +8,12 @@
     <div class="row">
       <div class="col-12 col-lg-4 pt-40">
         <img
-          src="https://images.unsplash.com/photo-1504629186813-5b49d61560ae?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+          src="/images/about-1.jpg"
           alt="about-1"
           class="d-block mb-32 mb-lg-60 img-fluid"
         />
         <img
-          src="https://images.unsplash.com/photo-1457972729786-0411a3b2b626?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+          src="/images/about-2.jpg"
           alt="about-2"
           class="d-block img-fluid"
         />

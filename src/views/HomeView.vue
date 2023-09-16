@@ -37,11 +37,11 @@ const products = ["product-1", "product-2", "product-3"];
     </div>
   </div>
 
-  <div class="container">
+   <div class="container">
     <div class="bg-primary py-16 text-center fs-24 text-white mb-40 mb-lg-60">最新活動</div>
     <div class="row gx-60">
-      <div class="col-lg-4" v-for="(product, index) in products">
-        <Card :image="product" :index="index" :service=false ></Card>
+      <div class="col-lg-4 d-flex" v-for="(event, index) in products">
+        <Card class="flex-grow-1" :image="event" :index="index" :service=false ></Card>
       </div>
     </div>
   </div>
@@ -50,13 +50,13 @@ const products = ["product-1", "product-2", "product-3"];
     <div class="bg-primary py-16 text-center fs-24 text-white mb-40 mb-lg-60">熱門美甲</div>
     <div class="row gx-60">
       <div class="col-lg-4 mb-20 mb-lg-0">
-        <img src="https://images.unsplash.com/photo-1567169556820-a566b9f53776?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80" alt="nail-1">
+        <img src="/images/hot-1.jpg" alt="nail-1">
       </div>
       <div class="col-lg-4 mb-20 mb-lg-0">
-        <img src="https://images.unsplash.com/photo-1567169556820-a566b9f53776?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80" alt="nail-1">
+        <img src="/images/hot-2.jpg" alt="nail-2">
       </div>
       <div class="col-lg-4 mb-20 mb-lg-0">
-        <img src="https://images.unsplash.com/photo-1567169556820-a566b9f53776?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2012&q=80" alt="nail-1">
+        <img src="/images/hot-3.jpg" alt="nail-3">
       </div>
     </div>
   </div>
