@@ -16,7 +16,7 @@ const events = ["event-1", "event-2", "event-3"];
   <div class="owner container mt-40 mt-lg-80 mb-40 mb-lg-80">
     <div class="row gx-60">
       <div class="col-lg-4">
-        <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/173481069_10208689672555239_4432502272894464060_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c_5WjnwYYygAX-wgmlI&_nc_ht=scontent.ftpe7-3.fna&oh=00_AfDFoVZJDSJ_YkrcaCoQ07iVJPigUg411sAvn32CQVVHlw&oe=652BF98C" alt="owner" class="img-fluid">
+        <img src="https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.6435-9/173481069_10208689672555239_4432502272894464060_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=c_5WjnwYYygAX-wgmlI&_nc_ht=scontent.ftpe7-3.fna&oh=00_AfDFoVZJDSJ_YkrcaCoQ07iVJPigUg411sAvn32CQVVHlw&oe=652BF98C" alt="owner" class="img-fluid rounded-circle">
       </div>
       <div class="col-lg-8 d-flex flex-column justify-content-between">
         <div>
@@ -51,13 +51,13 @@ const events = ["event-1", "event-2", "event-3"];
     <div class="bg-primary py-16 text-center fs-24 text-white mb-40 mb-lg-60">熱門美甲</div>
     <div class="row gx-60">
       <div class="col-lg-4 mb-20 mb-lg-0">
-        <img src="/images/hot-1.jpg" alt="nail-1">
+        <img src="/images/hot-1.jpg" class="rounded" alt="nail-1">
       </div>
       <div class="col-lg-4 mb-20 mb-lg-0">
-        <img src="/images/hot-2.jpg" alt="nail-2">
+        <img src="/images/hot-2.jpg" class="rounded" alt="nail-2">
       </div>
       <div class="col-lg-4 mb-20 mb-lg-0">
-        <img src="/images/hot-3.jpg" alt="nail-3">
+        <img src="/images/hot-3.jpg" class="rounded" alt="nail-3">
       </div>
     </div>
   </div>
