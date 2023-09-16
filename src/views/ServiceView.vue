@@ -16,7 +16,7 @@
       </div>
       <div
         class="col-12 col-lg-6 p-16 px-lg-32 d-flex flex-column justify-content-between mb-32 pic-1"
-        style="height: 500px"
+        style="height:500px;"
       >
         <div>
           <h3 class="pt-40">沾粉指甲</h3>
@@ -29,7 +29,7 @@
       <!-- 2 -->
       <div
         class="col-12 col-lg-6 p-16 px-lg-32 d-flex flex-column justify-content-between mb-32 pic-2"
-        style="height: 500px"
+        style="height:500px;"
       >
         <div>
           <h3 class="pt-40">凝膠指甲</h3>
@@ -38,7 +38,7 @@
         <button type="button" class="mb-md-40 btn btn-lg btn-outline-primary align-self-end">MORE</button>
       </div>
       <div class="col-lg-6 d-none d-lg-block">
-        <img class="ms-lg-32" src="/images/product-5.jpg"
+        <img class="ms-lg-16" src="/images/product-5.jpg"
           alt=""
         />
       </div>
@@ -51,7 +51,7 @@
       </div>
       <div
         class="col-12 col-lg-6 p-16 px-lg-32 d-flex flex-column justify-content-between mb-32 pic-3"
-        style="height: 500px"
+        style="height:500px;"
       >
         <div>
           <h3 class="pt-40">手足保養</h3>
@@ -63,7 +63,7 @@
       <!-- 4 -->
       <div
         class="col-12 col-lg-6 p-16 px-lg-32 d-flex flex-column justify-content-between mb-32 pic-4"
-        style="height: 500px"
+        style="height:500px;"
       >
         <div>
           <h3 class="pt-40">熱蠟除毛</h3>
@@ -72,7 +72,7 @@
         <button type="button" class="mb-md-40 btn btn-lg btn-outline-primary align-self-end">MORE</button>
       </div>
       <div class="col-lg-6 d-none d-lg-block">
-        <img class="ms-lg-40" src="/images/product-3.jpg"
+        <img class="ms-lg-16" src="/images/product-3.jpg"
           alt=""
         />
       </div>
@@ -87,6 +87,7 @@ img {
   background-size: cover;
   object-fit: cover;
   height: 500px;
+  width:100%;
 }
 
 .pic-1 {
