@@ -36,85 +36,103 @@
     <div class="container mb-40">
       <div class="row">
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
-          <img class="" src="/images/gallery-1.jpg"
+          <div class="gallery rounded">
+          <img class=" " src="/images/gallery-1.jpg"
           alt=""/>
           </div>
         </div>
            <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
-          <img class="" src="/images/gallery-2.jpg"
+          <div class="gallery rounded">
+          <img class=" " src="/images/gallery-2.jpg"
           alt=""/>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
-          <img class="" src="/images/gallery-3.jpg"
+          <div class="gallery rounded">
+          <img class=" " src="/images/gallery-3.jpg"
           alt=""/>
           </div>
         </div>    
        <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-4.jpg"
           alt=""/>
           </div>
         </div>    
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-5.jpg"
           alt=""/>
           </div>
         </div>    
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-6.jpg"
           alt=""/>
           </div>
         </div>    
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-7.png"
           alt=""/>
           </div>
         </div>    
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-8.jpg"
           alt=""/>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-9.jpg"
           alt=""/>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-10.jpg"
           alt=""/>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-11.jpg"
           alt=""/>
           </div>
         </div>
         <div class="col-12 col-md-6 col-lg-3 mb-24">
-          <div class="gallery ">
+          <div class="gallery rounded">
           <img class="" src="/images/gallery-12.jpg"
           alt=""/>
           </div>
         </div>
       </div>
     </div>
-  </div>
+   <div class="pagination mb-40">
+        <nav aria-label="page-navigation" class="w-100 h-auto">
+          <ul class="pagination justify-content-center mb-0">
+            <li class="page-item lh-1"><a class="page-link link-primary p-1 border-primary" href="#"><span class="material-icons">chevron_left</span></a></li>
+            <li class="page-item ms-8"><a class="page-link link-primary pb-1 border-primary" href="#">1</a></li>
+            <li class="page-item ms-8"><a class="page-link link-primary pb-1 border-primary" href="#">2</a></li>
+            <li class="page-item ms-8"><a class="page-link link-primary pb-1 border-primary" href="#">3</a></li>
+            <li class="page-item lh-1 ms-8"><a class="page-link link-primary p-1 border-primary" href="#"><span class="material-icons">chevron_right</span></a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
 </template>
 
 
 <style scoped lang="scss">
 .gallery {
   border:8px solid #bb9cd8;
+}
+.page-link {
+  &:hover
+  {
+    background-color: #bb9cd8 !important;
+    color:#fff !important;
+  }
 }
 </style>
