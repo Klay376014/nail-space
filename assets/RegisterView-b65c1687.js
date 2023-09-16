@@ -1,1 +1,0 @@
-import{_ as e,o as t,a as s,b as c}from"./index-29358db6.js";const o={},n={class:"banner mb-lg-48 mb-32"},a=c("h2",{class:"text-center py-96 text-white"},"註冊",-1),r=[a];function _(i,d){return t(),s("div",n,r)}const f=e(o,[["render",_]]);export{f as default};
