@@ -1,0 +1,23 @@
+h1 {
+  a {
+    display: block;
+    width: 238.5px;
+    height: 88px;
+    background-image: url('/images/logo.png');
+    background-size: contain;
+    text-indent: -9999px;
+    overflow: hidden;
+  }
+}
+
+li.bd-bottom:hover {
+  border-bottom: 3px solid $primary;
+}
+
+.navbar-toggler {
+  color: $primary;
+}
+
+a.nav-link {
+  width: 100%;
+}
