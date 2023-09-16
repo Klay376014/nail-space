@@ -6,41 +6,21 @@
     <h2 class="text-center py-96 text-white">價目表</h2>
   </div>
   <!-- 價目表 -->
-  <div class="container">
+  <div class="container mb-20">
     <div class="row">
       <!-- 1 -->
       <div class="col-12 col-lg-6">
         <div class="mb-32">
-          <img
-            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
-            alt=""
+          <img src="/images/price1.jpg"
+            alt="美甲價目表"
           />
         </div>
       </div>
       <!-- 2 -->
       <div class="col-12 col-lg-6">
         <div class="mb-32">
-          <img
-            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
-            alt=""
-          />
-        </div>
-      </div>
-      <!-- 3 -->
-      <div class="col-12 col-lg-6">
-        <div class="mb-32">
-          <img
-            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
-            alt=""
-          />
-        </div>
-      </div>
-      <!-- 4 -->
-      <div class="col-12 col-lg-6">
-        <div class="mb-32">
-          <img
-            src="https://png.pngtree.com/png-clipart/20220327/original/pngtree-beauty-price-list-picture-png-image_7474252.png"
-            alt=""
+          <img src="/images/price2.jpg"
+            alt="除毛價目表"
           />
         </div>
       </div>
