@@ -20,11 +20,11 @@ const events = ["event-1", "event-2", "event-3"];
       </div>
       <div class="col-lg-8 d-flex flex-column justify-content-between">
         <div>
-          <h2 class="mb-40 fs-lg-48">旅澳歸台美甲師 Yvonne</h2>
+          <h2 class="mb-40 fs-lg-48 text-primary">旅澳歸台美甲師 Yvonne</h2>
           <p class="mb-20 fs-lg-20">Yvonne 在澳洲學習到了新的美甲產品與新技術-沾粉指甲 (Dip powder) ，親眼見證了許多客人的心路歷程！</p>
           <p class="fs-lg-20">眾多客戶分享的故事中，讓 Yvonne 深深體會到，美甲不只是奢侈品，不只是追求流行的標誌，美甲可以是日常，更可以是改變你的心情、進而提升信心的工具。</p>
         </div>
-        <a href="/nail-space/about" class="ms-auto"><button type="button" class="btn btn-outline-primary  fs-lg-20">更多關於 Yvonne</button></a>
+        <a href="/nail-space/about" class="ms-auto"><button type="button" class="btn btn-outline-primary fs-lg-20">更多關於 Yvonne</button></a>
       </div>
     </div>
   </div>

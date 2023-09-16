@@ -8,7 +8,7 @@
 
       <div class="col-lg-4 col-md-6 col-12 mx-auto text-center mt-md-60 mt-24">
         
-        <h3 class="fw-bold fs-24 my-16">會員登入</h3>
+        <h3 class="fw-bold fs-24 my-16 text-primary">會員登入</h3>
         <form class="needs-validation text-start" method="POST">
 
           <div class="mb-16">
